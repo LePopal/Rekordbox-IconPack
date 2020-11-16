@@ -1,2 +1,2 @@
-# IconPack-RekordboxV6
+# Rekordbox-IconPack
 Work in progress
