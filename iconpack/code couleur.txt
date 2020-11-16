@@ -1,0 +1,29 @@
+blanc
+252, 252, 252
+
+vert
+2, 252, 29
+
+rouge
+252, 2, 8
+
+jaune 
+250, 244, 2
+
+violet
+244, 2, 250
+
+bleu
+12, 2, 250
+
+bleu clair
+2, 224, 250
+
+orange
+255, 130, 5
+
+site internet:
+https://www.code-couleur.com/
+
+Ligne de code terminal pour forcer la signature:
+sudo codesign --force --deep --sign - 

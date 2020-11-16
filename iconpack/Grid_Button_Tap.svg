@@ -1,0 +1,8 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="51px" height="27px">
+<path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(252, 252, 252)" fill="rgb(25, 25, 25)"
+ d="M2.500,0.500 L48.500,0.500 C49.605,0.500 50.500,1.395 50.500,2.500 L50.500,24.500 C50.500,25.605 49.605,26.500 48.500,26.500 L2.500,26.500 C1.395,26.500 0.500,25.605 0.500,24.500 L0.500,2.500 C0.500,1.395 1.395,0.500 2.500,0.500 Z"/>
+<text font-family="HelveticaNeueLTW1G" fill="rgb(252, 252, 252)" font-size="12px" x="14.5px" y="17.562px">TAP</text>
+</svg>
